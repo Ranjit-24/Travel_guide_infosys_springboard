@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    border: 0.7px rgba(0, 0, 0, 0.458) solid;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+a{
+    color: inherit;
+}
